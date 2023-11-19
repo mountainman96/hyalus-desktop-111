@@ -43,3 +43,8 @@ pnpm electron-builder -l # for Linux
 
 - The build output should be in `dist/packaged`.
 - Edit `electron-builder.yml` if you want to build for a new platform/architecture.
+
+
+
+
+1
